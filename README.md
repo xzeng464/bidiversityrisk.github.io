@@ -29,7 +29,7 @@ We explore the effects of physical and regulatory risks related to biodiversity 
 <br/>
 <br/>
 <p align="justify">
- <strong>Reference:</strong> Giglio, Stefano and Kuchler, Theresa and Stroebel, Johannes and Zeng, Xuran, Biodiversity Risk (April, 2023). Available at <a target="_blank" href="https://www.nber.org/papers/w31137">NBER</a>.
+ <strong>Reference:</strong> Giglio, Stefano, Theresa Kuchler, Johannes Stroebel, and Xuran Zeng. "Biodiversity risk." Review of Finance (2025)
  </p>
 <br/>
 <br/>
