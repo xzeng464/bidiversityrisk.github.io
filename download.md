@@ -4,10 +4,11 @@ title: Download Data
 permalink: /download/
 ---
 
+
+The sample for the published paper ends in 2023, but we aim to continue updating the series periodically.<br>
 <a href="/data/Biodiversity Data Codebook.pdf" target="_blank"><strong>Download:</strong> Biodiversity Data Codebook.pdf</a><br>
 
 
-The sample for the published paper ends in 2023, but we aim to continue updating the series periodically.<br><br>
 
 ## 1. Aggregate Risks<br>
 
@@ -19,7 +20,7 @@ The sample for the published paper ends in 2023, but we aim to continue updating
 ## 2. Biodiversity Risk Exposure<br>
 
 +  Annual firm-level 10k-Based Biodiversity Scores<br>
-<a href="/data/10k_biodiversity_scores.csv" target="_blank"><strong>Download (2001-2023):</strong> 10k_biodiversity_scores.csv</a><br><br>
+<a href="/data/10k_biodiversity_scores.csv" target="_blank"><strong>Download (2001-2023):</strong> 10k_biodiversity_scores.csv</a><br>
 <a href="/data/10k_biodiversity_scores_2024.csv" target="_blank"><strong>Download (2001-2024):</strong> 10k_biodiversity_scores.csv </a> <span style="color:red;">[NEW!] <br><br>
 
 
